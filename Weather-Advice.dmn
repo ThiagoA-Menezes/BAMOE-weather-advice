@@ -52,12 +52,12 @@
         </dmn:inputExpression>
       </dmn:input>
       <dmn:input id="_10B99108-0DEE-49B9-A636-F61710D463AC">
-        <dmn:inputExpression typeRef="string">
+        <dmn:inputExpression id="_5C367B8F-3038-4D9E-9B81-15ABD9922754" typeRef="string">
           <dmn:text>Weather.temperature</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
       <dmn:input id="_B65EFB19-C35A-4CEA-A8C0-DDC8AE0A5C48">
-        <dmn:inputExpression typeRef="boolean">
+        <dmn:inputExpression id="_E4B0461B-16A6-493C-B93C-19061B8579F3" typeRef="boolean">
           <dmn:text>Weather.stormAlert</dmn:text>
         </dmn:inputExpression>
       </dmn:input>
